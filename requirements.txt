@@ -1,0 +1,5 @@
+Django==1.11.6
+django-colorful==1.2
+djangorestframework==3.3.2
+psycopg2==2.7.3.1
+pytz==2017.2
